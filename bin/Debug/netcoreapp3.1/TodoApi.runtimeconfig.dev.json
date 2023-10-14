@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tamul\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tamul\\.nuget\\packages"
+    ]
+  }
+}
