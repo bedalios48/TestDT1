@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tamul\\source\\repos\\dotnet-core-api\\TodoApi.csproj": {}
+    "C:\\Users\\tamul\\source\\repos\\TestDT1\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tamul\\source\\repos\\dotnet-core-api\\TodoApi.csproj": {
+    "C:\\Users\\tamul\\source\\repos\\TestDT1\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tamul\\source\\repos\\dotnet-core-api\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\tamul\\source\\repos\\TestDT1\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\tamul\\source\\repos\\dotnet-core-api\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\tamul\\source\\repos\\TestDT1\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\tamul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tamul\\source\\repos\\dotnet-core-api\\obj\\",
+        "outputPath": "C:\\Users\\tamul\\source\\repos\\TestDT1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tamul\\AppData\\Roaming\\NuGet\\NuGet.Config",
