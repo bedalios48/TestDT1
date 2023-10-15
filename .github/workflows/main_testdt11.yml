@@ -26,13 +26,13 @@ jobs:
         run: nuget restore
 
       - name: Publish to folder
-        run: msbuild D:\a\TestDT1\TestDT1\TodoApi.csproj
+        run: msbuild D:\a\TestDT1\TestDT1\TodoApi.csproj -o ${{env.DOTNET_ROOT}}/myapp
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v3
         with:
           name: .net-app
-          path: '/published/**'
+          path: ${{env.DOTNET_ROOT}}/myapp
 
   deploy:
     runs-on: windows-latest
